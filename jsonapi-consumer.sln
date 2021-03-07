@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonapi-consumer-sample", "jsonapi-consumer-sample\jsonapi-consumer-sample.csproj", "{89276E5D-5D7E-479C-8F44-28107D67E61E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jsonapi-consumer", "jsonapi-consumer\jsonapi-consumer.csproj", "{84996C2B-9048-4A68-8BC9-2BFE9EE145EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89276E5D-5D7E-479C-8F44-28107D67E61E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89276E5D-5D7E-479C-8F44-28107D67E61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89276E5D-5D7E-479C-8F44-28107D67E61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89276E5D-5D7E-479C-8F44-28107D67E61E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84996C2B-9048-4A68-8BC9-2BFE9EE145EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84996C2B-9048-4A68-8BC9-2BFE9EE145EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84996C2B-9048-4A68-8BC9-2BFE9EE145EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84996C2B-9048-4A68-8BC9-2BFE9EE145EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D782B05E-233F-4A5B-9DD2-05DA39E0A215}
+	EndGlobalSection
+EndGlobal
